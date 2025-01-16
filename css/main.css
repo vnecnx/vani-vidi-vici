@@ -1,9 +1,10 @@
 /* Place CSS styles here */
 body {
-    color: rgb(179, 170, 218);
-    background-color: rgb(21, 2, 92);
+    color: darkblue;
+    background-color: lavender;
     font-size: 30px;
     font-family: sans-serif;
-    padding: 0 128px 0;
+    padding: 48px 128px;
     text-align: center;
+    background-image: url(../img/background.jpg);
 }
