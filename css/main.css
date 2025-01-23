@@ -5,8 +5,13 @@ body {
     font-size: 30px;
     font-family: sans-serif;
     padding: 48px 128px;
-    text-align: center;
     background-image: url(../img/background.jpg);
+    font-size: medium;
+}
+
+h1 {
+    text-align: center;
+    font-size: larger;
 }
 
 .snow-day {
