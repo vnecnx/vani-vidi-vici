@@ -11,7 +11,15 @@ body {
 
 h1 {
     text-align: center;
-    font-size: larger;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: 400;
+    text-transform: capitalize;
+    text-decoration:underline;
+    text-shadow: 2px 2px 4px blue;
+    line-height: 0.8;
+    letter-spacing: 4px;
+    word-spacing: 4px;
 }
 
 .snow-day {
@@ -21,3 +29,9 @@ h1 {
 .snow-angel {
     color: black;
 }
+
+a:hover {
+    color: forestgreen;
+}
+
+/* comment */

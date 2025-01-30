@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-transform: capitalize;
+    line-height: 3;
+}
